@@ -468,6 +468,7 @@ h6 { font-size:18px; line-height:23px}
 
 /* border color */
 .border-2-white {border: 2px solid #ffffff !important;}
+.border-2-dark{border: 2px solid #454545 !important;}
 .border-2-fast-blue {border: 2px solid #3966e6  !important;}
 .border-2-light-green {border: 2px solid #8BC34A  !important;}
 .border-2-medium-green {border: 2px solid #259319  !important;}
